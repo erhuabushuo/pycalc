@@ -1,0 +1,3 @@
+import calcpy
+
+calcpy.calculcate()
